@@ -1,4 +1,4 @@
-# Komponentenbasierte Entwicklung
+# Paurina
 
 In diesem Repository befinden sich die Belegaufgaben für den Kurs Komponentenbasierte Entwicklung an der Hochschule für Technik und Wirtschaft Berlin.
 
